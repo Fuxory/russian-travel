@@ -9,6 +9,11 @@
   cursor: pointer;
 }
 
+.header__lang-link:hover {
+  transition: all 1s ease;
+  opacity: .5;
+}
+
 @media screen and (max-width: 425px) {
   .header__lang-link {
     font-size: 18px;
