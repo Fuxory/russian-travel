@@ -7,11 +7,12 @@
   line-height: 28px;
   font-weight: normal;
   cursor: pointer;
+  margin-right: 18px;
 }
 
 .header__lang-link:hover {
   transition: all 1s ease;
-  opacity: .5;
+  opacity: .8;
 }
 
 @media screen and (max-width: 425px) {

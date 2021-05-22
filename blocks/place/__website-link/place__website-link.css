@@ -9,5 +9,5 @@
 
 .place__website-link:hover {
   transition: all 1s ease;
-  opacity: .5;
+  opacity: .8;
 }

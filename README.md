@@ -7,7 +7,7 @@
 - CSS3
 - Flexbox
 - Grid Layout
-- БЭМ Nasted
+- БЭМ Nested
 
 # Посмотреть проект можно по ссылке: https://fuxory.github.io/russian-travel/
 

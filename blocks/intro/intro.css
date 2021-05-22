@@ -1,8 +1,7 @@
 .intro {
   display: flex;
   flex-direction: column;
-  max-width: 690px;
-  max-height: 429px;
+  min-height: 429px;
   align-items: flex-start;
   margin: 92px 0 0 148px;
 }
@@ -12,27 +11,17 @@
     margin-left: 48px;
   }
 }
+
 @media screen and (max-width: 768px) {
   .intro {
     margin: 88px 24px 0;
-    min-width: 720px;
+    min-height: 100%;
   }
 }
-@media screen and (max-width: 758px) {
-  .intro {
-    margin-left: auto;
-    margin-right: auto;
-  }
-}
-@media screen and (max-width: 744px) {
-  .intro {
-    min-width: 90vw;
-  }
-}
+
 @media screen and (max-width: 425px) {
   .intro {
     margin: 64px 16px 0;
     min-width: 288px;
-    max-height: 754px;
   }
 }
